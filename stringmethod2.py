@@ -23,7 +23,6 @@ else:
     print(f"Welcome {username}")
 
 
-
 # 3. username must not contain digits #username.isalpha()
 username = input("Enter your user name: ")
 
