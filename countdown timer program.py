@@ -1,3 +1,5 @@
+# time counter 
+
 import time
 
 my_time = int(input("Enter the time in second: "))
