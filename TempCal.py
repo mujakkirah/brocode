@@ -1,7 +1,12 @@
+# if condition with logical conditional operator 
+
+
 # Logical operator = evaluate multiple condition (or, and, not)
 #                   or = al least one conditon must be true
 #                   and = both condition must be True
 #                   not = inverts the condition (not False, not True)
+
+
 # if and and conditon 
 
 temp = -5
