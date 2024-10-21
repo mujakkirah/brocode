@@ -1,5 +1,5 @@
 # indexing = accessing element of sequence of sequence using [] (indexing operator )
-#                           [start: end: step]
+#                          [start: end: step]
 
 #[sart: End]
 credit_number = "1234-5678-9012-3456"
