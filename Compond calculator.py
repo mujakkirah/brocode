@@ -1,4 +1,4 @@
-# Python compound interest calculator # bro Code 2:05
+# Practice while loop
 
 
 principle = 0
