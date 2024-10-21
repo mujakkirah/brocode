@@ -1,6 +1,4 @@
 # nested loop = A loop within another loop ( outer , inner )
-#                                    outer loop:
-#                                      inner loop: 
 
 rows = int(input("Enter the # of rows: "))
 colums = int(input("Enter the # of colums: "))
@@ -13,10 +11,7 @@ for x in range(rows):
      print()
 
 
-#for x in range(3):
-#  for y in range (1, 10):
-#     print(y, end= " ")
-#     print()
-
-#for x in range (1, 10):
-#    print(x, end ="")
+for x in range(3):
+ for y in range (1, 10):
+      print(y, end= " ")
+     
