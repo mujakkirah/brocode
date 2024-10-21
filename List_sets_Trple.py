@@ -3,20 +3,21 @@
 # set        = {} unordered and immutable , but Add / Remove OK. NO duplicates 
 # Tuple      = () ordered and unchangeable. Duplicates OK. FASTER 
 
-#fruit = "Apple" # collection 
+fruit = "Apple" # collection 
 fruits = ["Apple","Banana", "Orange","Mango"] #List
-#print(fruit)
-#print(fruits[-1])
+print(fruit)
+print(fruits[-1]) # use for list indexing 
 
-#for x in fruits:
-#    print(x)
+# now i use for Statement 
+for x in fruits:
+    print(x)
 
-#print(dir(fruits))
+print(dir(fruits)) # dir convert dictionary 
 
-#print(help(fruits))
+print(help(fruits)) # help function 
 
-#print(len(fruits))
-#print("apple" in fruit)
+print(len(fruits)) # len use for total number of elements 
+print("apple" in fruit)
 
 #fruits[1] = "pineapple"
 #for fruit in fruits:
